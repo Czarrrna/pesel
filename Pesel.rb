@@ -38,7 +38,3 @@ public
     return valid
   end
 end
-
-a=PeselValidate.new("92122201454")
-a.validate()
-
